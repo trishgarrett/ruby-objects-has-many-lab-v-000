@@ -13,6 +13,6 @@ class Post
 
   def author_name
     binding.pry
-    self.author.title
+    self.author.name
   end
 end
